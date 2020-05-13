@@ -1,0 +1,11 @@
+1. From repository view click "Create new file" or "Upload files"
+2. Enter folderName/fileName or just file name
+3. Enter some text in the body
+4. At the bottom of page mark "Create a new branch for this commit..." option
+5. Add a name ofr a branch
+6. Branch is creted
+7. Select where doy you want to merge your branch (from base dropdown just above the branch name)
+8. Add some description to your branch
+9. Click create a Pull Request button
+10. Click on "Pull requests" tab
+11. Check that your pull request is created

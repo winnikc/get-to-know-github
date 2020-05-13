@@ -1,0 +1,7 @@
+1. From branches tab select desired branch
+2. Click "Create new file" or upload files" button
+3. Do the changes that you want
+4. Add a short description what did you change
+5. Make sure that you are commiting to the same branch (first option)
+6. Click "Commit new file" button
+7. Check that your changes are pushed
