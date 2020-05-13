@@ -1,0 +1,9 @@
+1. From repository view click "Create new file" or "Upload files"
+2. Enter folderName/fileName or just file name
+3. Enter some text in the body
+4. At the bottom of page mark "Create a new branch for this commit..." option
+5. Add a name ofr a branch
+6. Branch is creted
+7. If you want to leave it as a branch just click repository name at the top of the page
+8. Click branches button
+9. Find your newly created branch

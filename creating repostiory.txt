@@ -1,0 +1,7 @@
+1. Login to github
+2. Click Repositories tab (depends on the url: https://github.com/<yourUserName>
+3. Click New button
+4. Enter a repository name
+5. Choose between public or private
+6. Mark "initialize the repository with a README"
+7. Click "Create repository" button
